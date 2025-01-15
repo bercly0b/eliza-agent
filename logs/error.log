@@ -1,0 +1,2 @@
+[2025-01-21T18:11:12.982Z] [WARN] bigint: Failed to load bindings, pure JS will be used (try npm run rebuild?)
+[2025-01-21T18:25:02.890Z] [WARN] bigint: Failed to load bindings, pure JS will be used (try npm run rebuild?)
