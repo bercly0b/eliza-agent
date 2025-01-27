@@ -4,6 +4,7 @@ node_modules
 build/
 dist/
 logs/
+data/
 
 db.sqlite
 .idea

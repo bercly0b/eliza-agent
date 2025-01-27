@@ -3,7 +3,7 @@ import path from 'node:path';
 import util from 'node:util';
 
 const LOG_DIR = 'logs';
-const APP_LOG = path.join(LOG_DIR, 'app.log');
+const APP_LOG = path.join(LOG_DIR, 'combined.log');
 const ERROR_LOG = path.join(LOG_DIR, 'error.log');
 
 // Создаем директорию для логов если её нет
