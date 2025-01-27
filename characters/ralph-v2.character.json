@@ -2,7 +2,7 @@
   "name": "Ralph Wiggum",
   "plugins": [],
   "clients": ["twitter"],
-  "modelProvider": "anthropic",
+  "modelProvider": "openrouter",
   "settings": {
     "secrets": {},
     "model": "small",

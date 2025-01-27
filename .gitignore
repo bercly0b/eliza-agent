@@ -5,6 +5,7 @@ build/
 dist/
 logs/
 data/
+logs/
 
 db.sqlite
 .idea
